@@ -79,7 +79,7 @@ endmodule
 
 ![image](https://user-images.githubusercontent.com/121303741/234765651-32e1006d-1789-4859-8c40-b215b5e7d07e.png)
 
-###FULL ADDER
+# FULL ADDER
 
 ![image](https://user-images.githubusercontent.com/121303741/234765738-a92420c2-cfcd-4e3b-b716-179b594f20bc.png)
 
